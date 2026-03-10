@@ -1,2 +1,2 @@
-# ClassProjects
+# WebDesignClassProjects
 Class Projects
