@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class Projects</title>
+</head>
+<body>
+
+    <h1>Web Design Class Projects</h1>
+
+    <h2>Class Projects</h2>
+
+    <ul>
+        <li><a href="intro_HTML/">Intro to HTML</a></li>
+        <li><a href="html5_css/">Cosmic Coffee</a></li>
+        <li><a href="adv_css/">Advanced CSS</a></li>
+        <li><a href="helping_hands/">Helping Hands 💙</a></li>
+    </ul>
+
+</body>
+</html>
